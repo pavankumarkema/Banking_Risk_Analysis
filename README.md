@@ -2,6 +2,11 @@
 
 End-to-end credit-risk analysis: data cleaning & EDA → feature engineering → baseline & tree-based classification → evaluation and stakeholder recommendations.
 
+Repository highlights
+- Notebooks: `notebooks/` (EDA, modeling, evaluation)  
+- Scripts: `scripts/` (data preprocessing, training) — if available  
+- Results: `reports/` (executive-summary.md or PDF, visuals)
+
 Tech
 - Power BI
 
